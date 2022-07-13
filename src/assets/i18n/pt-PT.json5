@@ -1014,7 +1014,8 @@
   // "bitstream.edit.title": "Edit bitstream",
   "bitstream.edit.title": "Editar ficheiro",
   
-  
+  // "browse.back.all-results": "All browse results",
+  "browse.back.all-results": "Precorrer todos os resultados",
   
   // "browse.comcol.by.author": "By Author",
   "browse.comcol.by.author": "Por Autor",
@@ -1045,6 +1046,18 @@
   
   // "browse.metadata.title": "Title",
   "browse.metadata.title": "Título",
+  
+  // "browse.metadata.type": "Document type",
+  "browse.metadata.type": "Tipo de documento",
+
+  // "browse.metadata.rights": "Access types",
+  "browse.metadata.rights": "Tipo de acesso",
+
+  // "browse.metadata.fos": "Scientific areas",
+  "browse.metadata.fos": "Áreas do conhecimento",
+
+  // "browse.metadata.fos_tag": "Scientific areas (cloud format)",
+  "browse.metadata.fos_tag": "Áreas do conhecimento (em nuvem)",
   
   // "browse.metadata.author.breadcrumbs": "Browse by Author",
   "browse.metadata.author.breadcrumbs": "Pesquisar por Autor",
