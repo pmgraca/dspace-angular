@@ -2156,7 +2156,65 @@
   // "form.submit": "Submit",
   "form.submit": "Guardar",
   
-  
+    // "health.breadcrumbs": "Health",
+  "health.breadcrumbs": "Diagnóstico",
+
+  // "health-page.heading" : "Health",
+  "health-page.heading" : "Diagnóstico",
+
+  // "health-page.info-tab" : "Info",
+  "health-page.info-tab" : "Informação",
+
+  // "health-page.status-tab" : "Status",
+  "health-page.status-tab" : "Estado",
+
+  // "health-page.error.msg": "The health check service is temporarily unavailable",
+  "health-page.error.msg": "O serviço de diagnóstico do sistema está temporariamente indisponível",
+
+  // "health-page.property.status": "Status code",
+  "health-page.property.status": "Código de estado",
+
+  // "health-page.section.db.title": "Database",
+  "health-page.section.db.title": "Base de dados",
+
+  // "health-page.section.geoIp.title": "GeoIp",
+  "health-page.section.geoIp.title": "GeoIp",
+
+  // "health-page.section.solrAuthorityCore.title": "Sor: authority core",
+  "health-page.section.solrAuthorityCore.title": "Solr: core de autoridades",
+
+  // "health-page.section.solrOaiCore.title": "Sor: oai core",
+  "health-page.section.solrOaiCore.title": "Solr: core de oai",
+
+  // "health-page.section.solrSearchCore.title": "Sor: search core",
+  "health-page.section.solrSearchCore.title": "Solr: core de pesquisa",
+
+  // "health-page.section.solrStatisticsCore.title": "Sor: statistics core",
+  "health-page.section.solrStatisticsCore.title": "Solr: core de estatísticas",
+
+  // "health-page.section-info.app.title": "Application Backend",
+  "health-page.section-info.app.title": "Backend da aplicação",
+
+  // "health-page.section-info.java.title": "Java",
+  "health-page.section-info.java.title": "Java",
+
+  // "health-page.status": "Status",
+  "health-page.status": "Estado",
+
+  // "health-page.status.ok.info": "Operational",
+  "health-page.status.ok.info": "Operacional",
+
+  // "health-page.status.error.info": "Problems detected",
+  "health-page.status.error.info": "Problemas detectados",
+
+  // "health-page.status.warning.info": "Possible issues detected",
+  "health-page.status.warning.info": "Possíveis problemas detectados",
+
+  // "health-page.title": "Health",
+  "health-page.title": "Diagnóstico",
+
+  // "health-page.section.no-issues": "No issues detected",
+  "health-page.section.no-issues": "Nenhum problema detectado",
   
   // "home.description": "",
   "home.description": "",
