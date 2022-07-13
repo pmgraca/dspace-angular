@@ -1071,6 +1071,18 @@
   // "browse.metadata.title.breadcrumbs": "Browse by Title",
   "browse.metadata.title.breadcrumbs": "Pesquisar por Título",
   
+  // "browse.metadata.type.breadcrumbs": "Document type",
+  "browse.metadata.type.breadcrumbs": "Tipo de documento",
+
+  // "browse.metadata.rights.breadcrumbs": "Access types",
+  "browse.metadata.rights.breadcrumbs": "Tipo de acesso",
+
+  // "browse.metadata.fos.breadcrumbs": "Scientific areas",
+  "browse.metadata.fos.breadcrumbs": "Áreas do conhecimento",
+
+  // "browse.metadata.fos_tag.breadcrumbs": "Scientific areas (cloud format)",
+  "browse.metadata.fos_tag.breadcrumbs": "Áreas do conhecimento (em nuvem)",
+  
   // "browse.startsWith.choose_start": "(Choose start)",
   "browse.startsWith.choose_start": "(Escolha o início)",
   
