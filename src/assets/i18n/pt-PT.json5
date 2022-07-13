@@ -243,6 +243,21 @@
   // "404.page-not-found": "page not found",
   "404.page-not-found": "Página não encontrada",
   
+  // "access-status.embargo.listelement.badge": "Embargo",
+  "access-status.embargo.listelement.badge": "Embargo",
+
+  // "access-status.metadata.only.listelement.badge": "Metadata only",
+  "access-status.metadata.only.listelement.badge": "Só metadata",
+
+  // "access-status.open.access.listelement.badge": "Open Access",
+  "access-status.open.access.listelement.badge": "Acesso aberto",
+
+  // "access-status.restricted.listelement.badge": "Restricted",
+  "access-status.restricted.listelement.badge": "Acesso restrito",
+
+  // "access-status.unknown.listelement.badge": "Unknown",
+  "access-status.unknown.listelement.badge": "Desconhecido",
+  
   // "admin.curation-tasks.breadcrumbs": "System curation tasks",
   "admin.curation-tasks.breadcrumbs": "Tarefas de Curadoria",
   
@@ -3189,6 +3204,18 @@
   
   // "menu.section.browse_global_by_title": "By Title",
   "menu.section.browse_global_by_title": "Por Título",
+  
+  // "menu.section.browse_global_by_type": "By Type",
+  "menu.section.browse_global_by_type": "Tipo de documento",
+
+  // "menu.section.browse_global_by_rights": "By Access Types",
+  "menu.section.browse_global_by_rights": "Tipo de acesso",
+
+  // "menu.section.browse_global_by_fos": "By Fields of Science",
+  "menu.section.browse_global_by_fos": "Áreas do conhecimento",
+
+  // "menu.section.browse_global_by_fos_tag": "By Fields of Science (could format)",
+  "menu.section.browse_global_by_fos_tag": "Áreas do conhecimento (em nuvem)",
   
   // "menu.section.browse_global_communities_and_collections": "Communities & Collections",
   "menu.section.browse_global_communities_and_collections": "Comunidades e Coleções",
