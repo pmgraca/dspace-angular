@@ -3193,7 +3193,8 @@
   // "menu.section.access_control_people": "People",
   "menu.section.access_control_people": "Pessoas",
   
-  
+  // "menu.section.health": "Health",
+  "menu.section.health": "Diagnóstico do sistema",
   
   // "menu.section.admin_search": "Admin Search",
   "menu.section.admin_search": "Pesquisa Administrativa",
