@@ -952,7 +952,12 @@
   // "admin.metadata-import.page.error.addFile": "Select file first!",
   "admin.metadata-import.page.error.addFile": "Selecione um ficheiro!",
   
-  
+  // "admin.metadata-import.page.validateOnly": "Validate Only",
+  "admin.metadata-import.page.validateOnly": "Validar apenas",
+
+  // "admin.metadata-import.page.validateOnly.hint": "When selected, the uploaded CSV will be validated. You will receive a report of detected changes, but no changes will be saved.",
+  "admin.metadata-import.page.validateOnly.hint": "Quando selecionado, o CSV carregado será validado. Receberá um relatório das alterações detectadas, mas nenhuma alteração será guardada.",
+
   
   
   // "auth.errors.invalid-user": "Invalid email address or password.",
