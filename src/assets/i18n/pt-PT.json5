@@ -1435,7 +1435,8 @@
   // "collection.form.title": "Name",
   "collection.form.title": "Nome",
   
-  
+  // "collection.form.entityType": "Entity Type",
+  "collection.form.entityType": "Tipo de entidade",
   
   // "collection.listelement.badge": "Collection",
   "collection.listelement.badge": "Coleção",
