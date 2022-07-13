@@ -1029,6 +1029,18 @@
   // "browse.comcol.by.title": "By Title",
   "browse.comcol.by.title": "Por Título",
   
+  // "browse.comcol.by.type": "By Type",
+  "browse.comcol.by.type": "Tipo de documento",
+
+  // "browse.comcol.by.rights": "By Access Rights",
+  "browse.comcol.by.rights": "Tipo de acesso",
+
+  // "browse.comcol.by.fos": "By Field of Science",
+  "browse.comcol.by.fos": "Área do conhecimento",
+
+  // "browse.comcol.by.fos_tag": "By FOS tag",
+  "browse.comcol.by.fos_tag": "Área do conhecimento (em nuvem)",
+  
   // "browse.comcol.head": "Browse",
   "browse.comcol.head": "Navegar",
   
