@@ -2891,7 +2891,11 @@
   // "item.search.title": "DSpace Angular :: Item Search",
   "item.search.title": "DSpace :: Pesquisa de Item",
   
-  
+  // "item.truncatable-part.show-more": "Show more",
+  "item.truncatable-part.show-more": "Mostrar mais",
+
+  // "item.truncatable-part.show-less": "Collapse",
+  "item.truncatable-part.show-less": "Mostrar menos",
   
   // "item.page.abstract": "Abstract",
   "item.page.abstract": "Resumo",
