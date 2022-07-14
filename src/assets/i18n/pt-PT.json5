@@ -4559,6 +4559,9 @@
   // "search.form.search_dspace": "Search DSpace",
   "search.form.search_dspace": "Pesquisar",
   
+  // "search.form.scope.all": "All of DSpace",
+  "search.form.scope.all": "Todo o repositório",
+  
   // "search.form.search_mydspace": "Search MyDSpace",
   "search.form.search_mydspace": "Pesquisar na Área Pessoal",
   
