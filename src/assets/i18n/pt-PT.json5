@@ -4576,7 +4576,11 @@
   // "search.results.empty": "Your search returned no results.",
   "search.results.empty": "A sua pesquisa não retornou resultados.",
   
-  
+  // "search.results.view-result": "View",
+  "search.results.view-result": "Vêr",
+
+  // "default-relationships.search.results.head": "Search Results",
+  "default-relationships.search.results.head": "Resultados da pesquisa",
   
   // "search.sidebar.close": "Back to results",
   "search.sidebar.close": "Voltar para os resultados",
