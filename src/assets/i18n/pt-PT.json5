@@ -104,9 +104,18 @@
 // "submission.general.info.saved": "Saved",
 "submission.general.info.saved": "Informação Guardada",
 
+// "bitstream.download.page": "Now downloading {{bitstream}}..." ,
+"bitstream.download.page": "Descarregando {{bitstream}}..." ,
+
+// "bitstream.download.page.back": "Back" ,
+"bitstream.download.page.back": "Voltar" ,
+  
 // "bitstream.edit.authorizations.link": "Edit bitstream's Policies",
 "bitstream.edit.authorizations.link": "Editar Polítcas de Ficheiros",
 
+// "bitstream.edit.authorizations.title": "Edit bitstream's Policies",
+"bitstream.edit.authorizations.title": "Editar as políticas do bitstream",
+  
 // "bitstream.edit.return": "Back",
 "bitstream.edit.return": "Voltar",
 
