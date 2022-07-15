@@ -3515,6 +3515,14 @@
   // "menu.section.workflow": "Administer Workflow",
   "menu.section.workflow": "Gestão do Workflow",
   
+  // "metadata-export-search.tooltip": "Export search results as CSV",
+  "metadata-export-search.tooltip": "Exportar resultados da pesquisa em CSV",
+
+  // "metadata-export-search.submit.success": "The export was started successfully",
+  "metadata-export-search.submit.success": "Exportação iniciada com sucesso",
+  
+  // "metadata-export-search.submit.error": "Starting the export has failed",
+  "metadata-export-search.submit.error": "Início da exportação falhou",
   
   // "mydspace.description": "",
   "mydspace.description": "",
