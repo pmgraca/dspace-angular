@@ -673,6 +673,9 @@
   // "admin.access-control.groups.table.name": "Name",
   "admin.access-control.groups.table.name": "Nome",
   
+  // "admin.access-control.groups.table.collectionOrCommunity": "Collection/Community",
+  "admin.access-control.groups.table.collectionOrCommunity": "Coleção/Comunidade",
+  
   // "admin.access-control.groups.table.members": "Members",
   "admin.access-control.groups.table.members": "Membros",
   
