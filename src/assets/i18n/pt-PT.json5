@@ -626,6 +626,9 @@
   // "admin.access-control.epeople.form.table.name": "Name",
   "admin.access-control.epeople.form.table.name": "Nome",
   
+  // "admin.access-control.epeople.form.table.collectionOrCommunity": "Collection/Community",
+  "admin.access-control.epeople.form.table.collectionOrCommunity": "Coleção/Comunidade",
+  
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
   "admin.access-control.epeople.form.memberOfNoGroups": "Este Utilizador não é membro de nenhum grupo",
   
