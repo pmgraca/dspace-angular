@@ -1051,9 +1051,6 @@
 
   // "browse.comcol.by.fos": "By Field of Science",
   "browse.comcol.by.fos": "Área do conhecimento",
-
-  // "browse.comcol.by.fos_tag": "By FOS tag",
-  "browse.comcol.by.fos_tag": "Área do conhecimento (em nuvem)",
   
   // "browse.comcol.head": "Browse",
   "browse.comcol.head": "Navegar",
@@ -1081,9 +1078,6 @@
 
   // "browse.metadata.fos": "Scientific areas",
   "browse.metadata.fos": "Áreas do conhecimento",
-
-  // "browse.metadata.fos_tag": "Scientific areas (cloud format)",
-  "browse.metadata.fos_tag": "Áreas do conhecimento (em nuvem)",
   
   // "browse.metadata.author.breadcrumbs": "Browse by Author",
   "browse.metadata.author.breadcrumbs": "Pesquisar por Autor",
@@ -1105,9 +1099,6 @@
 
   // "browse.metadata.fos.breadcrumbs": "Scientific areas",
   "browse.metadata.fos.breadcrumbs": "Áreas do conhecimento",
-
-  // "browse.metadata.fos_tag.breadcrumbs": "Scientific areas (cloud format)",
-  "browse.metadata.fos_tag.breadcrumbs": "Áreas do conhecimento (em nuvem)",
   
   // "browse.startsWith.choose_start": "(Choose start)",
   "browse.startsWith.choose_start": "(Escolha o início)",
