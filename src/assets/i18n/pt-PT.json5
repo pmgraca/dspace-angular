@@ -1037,6 +1037,51 @@
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
   "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao guardar o formto do ficheiro",
   
+  // "bitstream.edit.form.iiifLabel.label": "IIIF Label",
+  "bitstream.edit.form.iiifLabel.label": "Etiqueta IIIF", 
+  
+  // "bitstream.edit.form.iiifLabel.hint": "Canvas label for this image. If not provided default label will be used.",
+  "bitstream.edit.form.iiifLabel.hint": "Etiqueta para esta imagem. Se não for fornecido, a etiqueta padrão será usada.",
+  
+  // "bitstream.edit.form.iiifToc.label": "IIIF Table of Contents",
+  "bitstream.edit.form.iiifToc.label": "Índice IIIF",
+ 
+    // "bitstream.edit.form.iiifToc.hint": "Adding text here makes this the start of a new table of contents range.",
+  "bitstream.edit.form.iiifToc.hint": "Adicionando texto aqui faz com que seja o início de um novo intervalo de índice.",
+
+  // "bitstream.edit.form.iiifWidth.label": "IIIF Canvas Width",
+  "bitstream.edit.form.iiifWidth.label": "Largura de ecrã IIIF",
+
+  // "bitstream.edit.form.iiifWidth.hint": "The canvas width should usually match the image width.",
+  "bitstream.edit.form.iiifWidth.hint": "A largura do ecrã geralmente deve corresponder à largura da imagem.",
+
+  // "bitstream.edit.form.iiifHeight.label": "IIIF Canvas Height",
+  "bitstream.edit.form.iiifHeight.label": "Altura de ecrã IIIF",
+
+  // "bitstream.edit.form.iiifHeight.hint": "The canvas height should usually match the image height.",
+  "bitstream.edit.form.iiifHeight.hint": "A altura do ecrã geralmente deve corresponder à altura da imagem.",
+
+  // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
+  "bitstream.edit.notifications.saved.content": "As suas alterações a este bitstream foram guardadas.",
+
+  // "bitstream.edit.notifications.saved.title": "Bitstream saved",
+  "bitstream.edit.notifications.saved.title": "Bitstream guardado",
+
+  // "bitstream.edit.title": "Edit bitstream",
+  "bitstream.edit.title": "Editar bitstream",
+
+  // "bitstream-request-a-copy.alert.canDownload1": "You already have access to this file. If you want to download the file, click ",
+  "bitstream-request-a-copy.alert.canDownload1": "Já tem acesso a este arquivo. Se deseja descarregar o arquivo, clique ",
+
+  // "bitstream-request-a-copy.alert.canDownload2": "here",
+  "bitstream-request-a-copy.alert.canDownload2": "aqui",
+
+  // "bitstream-request-a-copy.header": "Request a copy of the file",
+  "bitstream-request-a-copy.header": "Pedir uma cópia do ficheiro",
+  
+  // "bitstream-request-a-copy.intro": "Enter the following information to request a copy for the following item: ",
+  "bitstream-request-a-copy.intro": "Insira as seguintes informações para solicitar uma cópia do item: ",
+
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
   "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram guardadas.",
   
