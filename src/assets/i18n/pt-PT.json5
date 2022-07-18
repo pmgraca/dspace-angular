@@ -104,9 +104,18 @@
 // "submission.general.info.saved": "Saved",
 "submission.general.info.saved": "Informação Guardada",
 
+// "bitstream.download.page": "Now downloading {{bitstream}}..." ,
+"bitstream.download.page": "Descarregando {{bitstream}}..." ,
+
+// "bitstream.download.page.back": "Back" ,
+"bitstream.download.page.back": "Voltar" ,
+  
 // "bitstream.edit.authorizations.link": "Edit bitstream's Policies",
 "bitstream.edit.authorizations.link": "Editar Polítcas de Ficheiros",
 
+// "bitstream.edit.authorizations.title": "Edit bitstream's Policies",
+"bitstream.edit.authorizations.title": "Editar as políticas do bitstream",
+  
 // "bitstream.edit.return": "Back",
 "bitstream.edit.return": "Voltar",
 
@@ -617,6 +626,9 @@
   // "admin.access-control.epeople.form.table.name": "Name",
   "admin.access-control.epeople.form.table.name": "Nome",
   
+  // "admin.access-control.epeople.form.table.collectionOrCommunity": "Collection/Community",
+  "admin.access-control.epeople.form.table.collectionOrCommunity": "Coleção/Comunidade",
+  
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
   "admin.access-control.epeople.form.memberOfNoGroups": "Este Utilizador não é membro de nenhum grupo",
   
@@ -661,6 +673,9 @@
   // "admin.access-control.groups.table.name": "Name",
   "admin.access-control.groups.table.name": "Nome",
   
+  // "admin.access-control.groups.table.collectionOrCommunity": "Collection/Community",
+  "admin.access-control.groups.table.collectionOrCommunity": "Coleção/Comunidade",
+  
   // "admin.access-control.groups.table.members": "Members",
   "admin.access-control.groups.table.members": "Membros",
   
@@ -701,6 +716,9 @@
   
   // "admin.access-control.groups.form.groupName": "Group name",
   "admin.access-control.groups.form.groupName": "Nome do grupo",
+  
+  // "admin.access-control.groups.form.groupCommunity": "Community or Collection",
+  "admin.access-control.groups.form.groupCommunity": "Comunidade ou Coleção",
   
   // "admin.access-control.groups.form.groupDescription": "Description",
   "admin.access-control.groups.form.groupDescription": "Descrição",
@@ -773,6 +791,15 @@
   
   // "admin.access-control.groups.form.members-list.table.name": "Name",
   "admin.access-control.groups.form.members-list.table.name": "Nome",
+  
+    // "admin.access-control.groups.form.members-list.table.identity": "Identity",
+  "admin.access-control.groups.form.members-list.table.identity": "Identidade",
+
+  // "admin.access-control.groups.form.members-list.table.email": "Email",
+  "admin.access-control.groups.form.members-list.table.email": "Email",
+
+  // "admin.access-control.groups.form.members-list.table.netid": "NetID",
+  "admin.access-control.groups.form.members-list.table.netid": "NetID",
   
   // "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
   "admin.access-control.groups.form.members-list.table.edit": "Remover / Adicionar",
@@ -952,7 +979,12 @@
   // "admin.metadata-import.page.error.addFile": "Select file first!",
   "admin.metadata-import.page.error.addFile": "Selecione um ficheiro!",
   
-  
+  // "admin.metadata-import.page.validateOnly": "Validate Only",
+  "admin.metadata-import.page.validateOnly": "Validar apenas",
+
+  // "admin.metadata-import.page.validateOnly.hint": "When selected, the uploaded CSV will be validated. You will receive a report of detected changes, but no changes will be saved.",
+  "admin.metadata-import.page.validateOnly.hint": "Quando selecionado, o CSV carregado será validado. Receberá um relatório das alterações detectadas, mas nenhuma alteração será guardada.",
+
   
   
   // "auth.errors.invalid-user": "Invalid email address or password.",
@@ -1005,6 +1037,96 @@
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
   "bitstream.edit.notifications.error.format.title": "Ocorreu um erro ao guardar o formto do ficheiro",
   
+  // "bitstream.edit.form.iiifLabel.label": "IIIF Label",
+  "bitstream.edit.form.iiifLabel.label": "Etiqueta IIIF", 
+  
+  // "bitstream.edit.form.iiifLabel.hint": "Canvas label for this image. If not provided default label will be used.",
+  "bitstream.edit.form.iiifLabel.hint": "Etiqueta para esta imagem. Se não for fornecido, a etiqueta padrão será usada.",
+  
+  // "bitstream.edit.form.iiifToc.label": "IIIF Table of Contents",
+  "bitstream.edit.form.iiifToc.label": "Índice IIIF",
+ 
+    // "bitstream.edit.form.iiifToc.hint": "Adding text here makes this the start of a new table of contents range.",
+  "bitstream.edit.form.iiifToc.hint": "Adicionando texto aqui faz com que seja o início de um novo intervalo de índice.",
+
+  // "bitstream.edit.form.iiifWidth.label": "IIIF Canvas Width",
+  "bitstream.edit.form.iiifWidth.label": "Largura de ecrã IIIF",
+
+  // "bitstream.edit.form.iiifWidth.hint": "The canvas width should usually match the image width.",
+  "bitstream.edit.form.iiifWidth.hint": "A largura do ecrã geralmente deve corresponder à largura da imagem.",
+
+  // "bitstream.edit.form.iiifHeight.label": "IIIF Canvas Height",
+  "bitstream.edit.form.iiifHeight.label": "Altura de ecrã IIIF",
+
+  // "bitstream.edit.form.iiifHeight.hint": "The canvas height should usually match the image height.",
+  "bitstream.edit.form.iiifHeight.hint": "A altura do ecrã geralmente deve corresponder à altura da imagem.",
+
+  // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
+  "bitstream.edit.notifications.saved.content": "As suas alterações a este bitstream foram guardadas.",
+
+  // "bitstream.edit.notifications.saved.title": "Bitstream saved",
+  "bitstream.edit.notifications.saved.title": "Bitstream guardado",
+
+  // "bitstream.edit.title": "Edit bitstream",
+  "bitstream.edit.title": "Editar bitstream",
+
+  // "bitstream-request-a-copy.alert.canDownload1": "You already have access to this file. If you want to download the file, click ",
+  "bitstream-request-a-copy.alert.canDownload1": "Já tem acesso a este arquivo. Se deseja descarregar o arquivo, clique ",
+
+  // "bitstream-request-a-copy.alert.canDownload2": "here",
+  "bitstream-request-a-copy.alert.canDownload2": "aqui",
+
+  // "bitstream-request-a-copy.header": "Request a copy of the file",
+  "bitstream-request-a-copy.header": "Pedir uma cópia do ficheiro",
+  
+  // "bitstream-request-a-copy.intro": "Enter the following information to request a copy for the following item: ",
+  "bitstream-request-a-copy.intro": "Insira as seguintes informações para solicitar uma cópia do item: ",
+
+  // "bitstream-request-a-copy.intro.bitstream.one": "Requesting the following file: ",
+  "bitstream-request-a-copy.intro.bitstream.one": "Solicitando o seguinte documento: ",
+
+  // "bitstream-request-a-copy.intro.bitstream.all": "Requesting all files. ",
+  "bitstream-request-a-copy.intro.bitstream.all": "Pedir todos os documentos. ",
+  
+  // "bitstream-request-a-copy.name.label": "Name *",
+  "bitstream-request-a-copy.name.label": "Nome *",
+  
+  // "bitstream-request-a-copy.name.error": "The name is required",
+  "bitstream-request-a-copy.name.error": "O campo \"Nome\" é um campo obrigatório",
+  
+  // "bitstream-request-a-copy.email.label": "Your e-mail address *",
+  "bitstream-request-a-copy.email.label": "Endereço de e-mail *",
+  
+  // "bitstream-request-a-copy.email.hint": "This email address is used for sending the file.",
+  "bitstream-request-a-copy.email.hint": "Este endereço de e-mail é usado para enviar o documento.",
+  
+  // "bitstream-request-a-copy.email.error": "Please enter a valid email address.",
+  "bitstream-request-a-copy.email.error": "Por favor introduza um endereço de e-mail válido.",
+  
+  // "bitstream-request-a-copy.allfiles.label": "Files",
+  "bitstream-request-a-copy.allfiles.label": "Documentos",
+  
+  // "bitstream-request-a-copy.files-all-false.label": "Only the requested file",
+  "bitstream-request-a-copy.files-all-false.label": "Só os documentos solicitados",
+  
+  // "bitstream-request-a-copy.files-all-true.label": "All files (of this item) in restricted access",
+  "bitstream-request-a-copy.files-all-true.label": "Todos os documentos (deste item) em acesso restrito",
+  
+  // "bitstream-request-a-copy.message.label": "Message",
+  "bitstream-request-a-copy.message.label": "Mensagem",
+
+  // "bitstream-request-a-copy.return": "Back",
+  "bitstream-request-a-copy.return": "Voltar",
+
+  // "bitstream-request-a-copy.submit": "Request copy",
+  "bitstream-request-a-copy.submit": "Pedir uma cópia",
+  
+  // "bitstream-request-a-copy.submit.success": "The item request was submitted successfully.",
+  "bitstream-request-a-copy.submit.success": "O pedido de documento foi enviado com sucesso.",
+
+  // "bitstream-request-a-copy.submit.error": "Something went wrong with submitting the item request.",
+  "bitstream-request-a-copy.submit.error": "Ocorreu um erro ao enviar o pedido de cópia de documento.",
+  
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
   "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram guardadas.",
   
@@ -1014,7 +1136,8 @@
   // "bitstream.edit.title": "Edit bitstream",
   "bitstream.edit.title": "Editar ficheiro",
   
-  
+  // "browse.back.all-results": "All browse results",
+  "browse.back.all-results": "Precorrer todos os resultados",
   
   // "browse.comcol.by.author": "By Author",
   "browse.comcol.by.author": "Por Autor",
@@ -1027,6 +1150,15 @@
   
   // "browse.comcol.by.title": "By Title",
   "browse.comcol.by.title": "Por Título",
+  
+  // "browse.comcol.by.type": "By Type",
+  "browse.comcol.by.type": "Tipo de documento",
+
+  // "browse.comcol.by.rights": "By Access Rights",
+  "browse.comcol.by.rights": "Tipo de acesso",
+
+  // "browse.comcol.by.fos": "By Field of Science",
+  "browse.comcol.by.fos": "Área do conhecimento",
   
   // "browse.comcol.head": "Browse",
   "browse.comcol.head": "Navegar",
@@ -1046,6 +1178,15 @@
   // "browse.metadata.title": "Title",
   "browse.metadata.title": "Título",
   
+  // "browse.metadata.type": "Document type",
+  "browse.metadata.type": "Tipo de documento",
+
+  // "browse.metadata.rights": "Access types",
+  "browse.metadata.rights": "Tipo de acesso",
+
+  // "browse.metadata.fos": "Scientific areas",
+  "browse.metadata.fos": "Áreas do conhecimento",
+  
   // "browse.metadata.author.breadcrumbs": "Browse by Author",
   "browse.metadata.author.breadcrumbs": "Pesquisar por Autor",
   
@@ -1057,6 +1198,15 @@
   
   // "browse.metadata.title.breadcrumbs": "Browse by Title",
   "browse.metadata.title.breadcrumbs": "Pesquisar por Título",
+  
+  // "browse.metadata.type.breadcrumbs": "Document type",
+  "browse.metadata.type.breadcrumbs": "Tipo de documento",
+
+  // "browse.metadata.rights.breadcrumbs": "Access types",
+  "browse.metadata.rights.breadcrumbs": "Tipo de acesso",
+
+  // "browse.metadata.fos.breadcrumbs": "Scientific areas",
+  "browse.metadata.fos.breadcrumbs": "Áreas do conhecimento",
   
   // "browse.startsWith.choose_start": "(Choose start)",
   "browse.startsWith.choose_start": "(Escolha o início)",
@@ -1393,7 +1543,8 @@
   // "collection.form.title": "Name",
   "collection.form.title": "Nome",
   
-  
+  // "collection.form.entityType": "Entity Type",
+  "collection.form.entityType": "Tipo de entidade",
   
   // "collection.listelement.badge": "Collection",
   "collection.listelement.badge": "Coleção",
@@ -1851,7 +2002,17 @@
   // "dso-selector.placeholder": "Search for a {{ type }}",
   "dso-selector.placeholder": "Pesquisar por um(a) {{ type }}",
   
-  
+  // "dso-selector.select.collection.head": "Select a collection",
+  "dso-selector.select.collection.head": "Escolher coleção",
+
+  // "dso-selector.set-scope.community.head": "Select a search scope",
+  "dso-selector.set-scope.community.head": "Escolher o âmbito da pesquisa",
+
+  // "dso-selector.set-scope.community.button": "Search all of DSpace",
+  "dso-selector.set-scope.community.button": "Pesquisar todo o repositório",
+
+  // "dso-selector.set-scope.community.input-header": "Search for a community or collection",
+  "dso-selector.set-scope.community.input-header": "Pesquisar uma comunidade ou coleção",
   
   // "confirmation-modal.export-metadata.header": "Export metadata for {{ dsoName }}",
   "confirmation-modal.export-metadata.header": "Exportar metadados para {{ dsoName }}",
@@ -2119,7 +2280,65 @@
   // "form.submit": "Submit",
   "form.submit": "Guardar",
   
-  
+    // "health.breadcrumbs": "Health",
+  "health.breadcrumbs": "Diagnóstico",
+
+  // "health-page.heading" : "Health",
+  "health-page.heading" : "Diagnóstico",
+
+  // "health-page.info-tab" : "Info",
+  "health-page.info-tab" : "Informação",
+
+  // "health-page.status-tab" : "Status",
+  "health-page.status-tab" : "Estado",
+
+  // "health-page.error.msg": "The health check service is temporarily unavailable",
+  "health-page.error.msg": "O serviço de diagnóstico do sistema está temporariamente indisponível",
+
+  // "health-page.property.status": "Status code",
+  "health-page.property.status": "Código de estado",
+
+  // "health-page.section.db.title": "Database",
+  "health-page.section.db.title": "Base de dados",
+
+  // "health-page.section.geoIp.title": "GeoIp",
+  "health-page.section.geoIp.title": "GeoIp",
+
+  // "health-page.section.solrAuthorityCore.title": "Sor: authority core",
+  "health-page.section.solrAuthorityCore.title": "Solr: core de autoridades",
+
+  // "health-page.section.solrOaiCore.title": "Sor: oai core",
+  "health-page.section.solrOaiCore.title": "Solr: core de oai",
+
+  // "health-page.section.solrSearchCore.title": "Sor: search core",
+  "health-page.section.solrSearchCore.title": "Solr: core de pesquisa",
+
+  // "health-page.section.solrStatisticsCore.title": "Sor: statistics core",
+  "health-page.section.solrStatisticsCore.title": "Solr: core de estatísticas",
+
+  // "health-page.section-info.app.title": "Application Backend",
+  "health-page.section-info.app.title": "Backend da aplicação",
+
+  // "health-page.section-info.java.title": "Java",
+  "health-page.section-info.java.title": "Java",
+
+  // "health-page.status": "Status",
+  "health-page.status": "Estado",
+
+  // "health-page.status.ok.info": "Operational",
+  "health-page.status.ok.info": "Operacional",
+
+  // "health-page.status.error.info": "Problems detected",
+  "health-page.status.error.info": "Problemas detectados",
+
+  // "health-page.status.warning.info": "Possible issues detected",
+  "health-page.status.warning.info": "Possíveis problemas detectados",
+
+  // "health-page.title": "Health",
+  "health-page.title": "Diagnóstico",
+
+  // "health-page.section.no-issues": "No issues detected",
+  "health-page.section.no-issues": "Nenhum problema detectado",
   
   // "home.description": "",
   "home.description": "",
@@ -2790,7 +3009,11 @@
   // "item.search.title": "DSpace Angular :: Item Search",
   "item.search.title": "DSpace :: Pesquisa de Item",
   
-  
+  // "item.truncatable-part.show-more": "Show more",
+  "item.truncatable-part.show-more": "Mostrar mais",
+
+  // "item.truncatable-part.show-less": "Collapse",
+  "item.truncatable-part.show-less": "Mostrar menos",
   
   // "item.page.abstract": "Abstract",
   "item.page.abstract": "Resumo",
@@ -2875,6 +3098,18 @@
   
   // "item.page.filesection.license.bundle" : "License bundle",
   "item.page.filesection.license.bundle" : "Licença",
+  
+  // "item.page.return": "Back",
+  "item.page.return": "Voltar",
+
+  // "item.page.version.create": "Create new version",
+  "item.page.version.create": "Criar nova versão",
+
+  // "item.page.version.hasDraft": "A new version cannot be created because there is an inprogress submission in the version history",
+  "item.page.version.hasDraft": "A nova versão não pode ser criada porque existe uma submissão em progresso no histórico de submissão de versões",
+
+  // "item.page.claim.button": "Claim",
+  "item.page.claim.button": "Reclamar",
   
   // "item.preview.dc.identifier.uri": "Identifier:",
   "item.preview.dc.identifier.uri": "Identificador:",
@@ -3156,7 +3391,8 @@
   // "menu.section.access_control_people": "People",
   "menu.section.access_control_people": "Pessoas",
   
-  
+  // "menu.section.health": "Health",
+  "menu.section.health": "Diagnóstico do sistema",
   
   // "menu.section.admin_search": "Admin Search",
   "menu.section.admin_search": "Pesquisa Administrativa",
@@ -3375,6 +3611,14 @@
   // "menu.section.workflow": "Administer Workflow",
   "menu.section.workflow": "Gestão do Workflow",
   
+  // "metadata-export-search.tooltip": "Export search results as CSV",
+  "metadata-export-search.tooltip": "Exportar resultados da pesquisa em CSV",
+
+  // "metadata-export-search.submit.success": "The export was started successfully",
+  "metadata-export-search.submit.success": "Exportação iniciada com sucesso",
+  
+  // "metadata-export-search.submit.error": "Starting the export has failed",
+  "metadata-export-search.submit.error": "Início da exportação falhou",
   
   // "mydspace.description": "",
   "mydspace.description": "",
@@ -4453,6 +4697,9 @@
   // "search.form.search_dspace": "Search DSpace",
   "search.form.search_dspace": "Pesquisar",
   
+  // "search.form.scope.all": "All of DSpace",
+  "search.form.scope.all": "Todo o repositório",
+  
   // "search.form.search_mydspace": "Search MyDSpace",
   "search.form.search_mydspace": "Pesquisar na Área Pessoal",
   
@@ -4470,7 +4717,11 @@
   // "search.results.empty": "Your search returned no results.",
   "search.results.empty": "A sua pesquisa não retornou resultados.",
   
-  
+  // "search.results.view-result": "View",
+  "search.results.view-result": "Visualizar",
+
+  // "default-relationships.search.results.head": "Search Results",
+  "default-relationships.search.results.head": "Resultados da pesquisa",
   
   // "search.sidebar.close": "Back to results",
   "search.sidebar.close": "Voltar para os resultados",
@@ -5335,5 +5586,7 @@
   // "workflow-item.send-back.button.confirm": "Send back"
   "workflow-item.send-back.button.confirm": "Devolver"
   
-
+  // "workspace.search.results.head": "Your submissions",
+  "workspace.search.results.head": "Suas submissões", 
+  
 }
