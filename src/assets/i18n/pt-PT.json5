@@ -1125,7 +1125,7 @@
   "bitstream-request-a-copy.submit.success": "O pedido de documento foi enviado com sucesso.",
 
   // "bitstream-request-a-copy.submit.error": "Something went wrong with submitting the item request.",
-  "bitstream-request-a-copy.submit.error": "Ocorreu um erro ao enviar o pedido de cópia de documentot.",
+  "bitstream-request-a-copy.submit.error": "Ocorreu um erro ao enviar o pedido de cópia de documento.",
   
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
   "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram guardadas.",
