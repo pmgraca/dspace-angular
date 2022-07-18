@@ -1082,6 +1082,51 @@
   // "bitstream-request-a-copy.intro": "Enter the following information to request a copy for the following item: ",
   "bitstream-request-a-copy.intro": "Insira as seguintes informações para solicitar uma cópia do item: ",
 
+  // "bitstream-request-a-copy.intro.bitstream.one": "Requesting the following file: ",
+  "bitstream-request-a-copy.intro.bitstream.one": "Solicitando o seguinte documento: ",
+
+  // "bitstream-request-a-copy.intro.bitstream.all": "Requesting all files. ",
+  "bitstream-request-a-copy.intro.bitstream.all": "Pedir todos os documentos. ",
+  
+  // "bitstream-request-a-copy.name.label": "Name *",
+  "bitstream-request-a-copy.name.label": "Nome *",
+  
+  // "bitstream-request-a-copy.name.error": "The name is required",
+  "bitstream-request-a-copy.name.error": "O campo \"Nome\" é um campo obrigatório",
+  
+  // "bitstream-request-a-copy.email.label": "Your e-mail address *",
+  "bitstream-request-a-copy.email.label": "Endereço de e-mail *",
+  
+  // "bitstream-request-a-copy.email.hint": "This email address is used for sending the file.",
+  "bitstream-request-a-copy.email.hint": "Este endereço de e-mail é usado para enviar o documento.",
+  
+  // "bitstream-request-a-copy.email.error": "Please enter a valid email address.",
+  "bitstream-request-a-copy.email.error": "Por favor introduza um endereço de e-mail válido.",
+  
+  // "bitstream-request-a-copy.allfiles.label": "Files",
+  "bitstream-request-a-copy.allfiles.label": "Documentos",
+  
+  // "bitstream-request-a-copy.files-all-false.label": "Only the requested file",
+  "bitstream-request-a-copy.files-all-false.label": "Só os documentos solicitados",
+  
+  // "bitstream-request-a-copy.files-all-true.label": "All files (of this item) in restricted access",
+  "bitstream-request-a-copy.files-all-true.label": "Todos os documentos (deste item) em acesso restrito",
+  
+  // "bitstream-request-a-copy.message.label": "Message",
+  "bitstream-request-a-copy.message.label": "Mensagem",
+
+  // "bitstream-request-a-copy.return": "Back",
+  "bitstream-request-a-copy.return": "Voltar",
+
+  // "bitstream-request-a-copy.submit": "Request copy",
+  "bitstream-request-a-copy.submit": "Pedir uma cópia",
+  
+  // "bitstream-request-a-copy.submit.success": "The item request was submitted successfully.",
+  "bitstream-request-a-copy.submit.success": "O pedido de documento foi enviado com sucesso.",
+
+  // "bitstream-request-a-copy.submit.error": "Something went wrong with submitting the item request.",
+  "bitstream-request-a-copy.submit.error": "Ocorreu um erro ao enviar o pedido de cópia de documentot.",
+  
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
   "bitstream.edit.notifications.saved.content": "As alterações aos ficheiro foram guardadas.",
   
